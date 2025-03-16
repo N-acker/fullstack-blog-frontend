@@ -18,8 +18,9 @@ This is the frontend of my personal blog, a responsive and user-friendly web app
 ## How to Run
 1. Clone this repository.
 2. Install dependencies: `npm install`.
-3. Start the development server: `npm start`.
-4. Open your browser and navigate to `http://localhost:3000`.
+3. Run the backend server: `npm rundev`.
+4. Start the development server: `npm start`.
+5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Deployment
 The frontend is hosted on [Firebase Hosting](https://firebase.google.com/docs/hosting) for fast and reliable delivery.
