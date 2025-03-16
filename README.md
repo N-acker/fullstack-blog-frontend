@@ -1,3 +1,36 @@
+# My Blog - Frontend
+
+This is the frontend of my personal blog, a responsive and user-friendly web application that allows users to read blog posts, interact with content, and authenticate using Firebase.
+
+## Features
+- **User Authentication**: Sign up, log in, and manage user profiles using Firebase Authentication.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **Dynamic Content**: Fetch and display blog posts from the backend API.
+- **Modern UI**: Built with React and styled using CSS or a library like Material-UI.
+
+## Technologies Used
+- **React**: Frontend library for building user interfaces.
+- **Firebase**: For user authentication and real-time data handling.
+- **React Router**: For client-side routing.
+- **Axios**: For making HTTP requests to the backend API.
+- **CSS/SCSS**: For styling the application.
+
+## How to Run
+1. Clone this repository.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
+4. Open your browser and navigate to `http://localhost:3000`.
+
+## Deployment
+The frontend is hosted on [Firebase Hosting](https://firebase.google.com/docs/hosting) for fast and reliable delivery.
+
+---
+
+**Note**: This repository is part of a full-stack project. The backend code can be found in the [fullstack-blog-backend] (https://github.com/N-acker/fullstack-blog-backend) repository.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
